@@ -1,5 +1,4 @@
 # enhanced-RT-search
-Scrapes Rotten Tomatoes site for a more refined movie search:
 
 I wrote this program to create a more refined movie search engine for [Rotten Tomatoes](https://www.rottentomatoes.com/browse/dvd-streaming-all).
 
