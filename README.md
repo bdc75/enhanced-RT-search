@@ -30,7 +30,7 @@ In addition to taking user input for Tomatometer score range and desired genres,
 
 #### *MORE DETAIL ON PACKAGES AND STRATEGIES USED:*
 
-The amount of movies displayed on the initial search results URL is only 32. Because the "Show More" button at the bottom is activated through something called React, I made use of ***Selenium***, which is a WebDriver that is used to automate tasks like clicking buttons. I use Selenium to click the list-view button and click the "Show More" button a few times.
+The amount of movies displayed on the initial search results URL is only 32. Because the "Show More" button at the bottom is activated through React, I made use of ***Selenium***, which is a WebDriver that is used to automate tasks like clicking buttons. I use Selenium to click the list-view button and click the "Show More" button a few times.
 
 Viewing results in list-view format, as opposed to grid-view, allows me to see more data on the search results page and therefore limit the search pool much faster than by loading and scraping every single movie URL.
 
